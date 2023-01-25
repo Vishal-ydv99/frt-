@@ -24,3 +24,5 @@ AZURE Static Web Apps
 AZURE Health Bot
 
 ![image](https://user-images.githubusercontent.com/83835190/214553640-87adc13c-629c-4426-8131-7796d89a2681.png)
+
+# Tech Stacks
