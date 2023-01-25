@@ -37,12 +37,21 @@ Project Demo Video Link :-
 
 # Screenshots
 
-## HOME
+HOME
+![image](https://user-images.githubusercontent.com/83835190/214555327-fa128122-f626-4ac9-a0dd-17c29c7b58f0.png)
 
-## ABOUT
 
-## SERVICES
+ABOUT
+![image](https://user-images.githubusercontent.com/83835190/214555408-ddaac5f9-3f98-4710-95ad-57267e8bf537.png)
 
-## CONTACT
+SERVICES
+![image](https://user-images.githubusercontent.com/83835190/214555507-eae9ef0f-e609-4644-acc7-65f46a535cf8.png)
 
-## Health Bot
+
+CONTACT
+![image](https://user-images.githubusercontent.com/83835190/214555620-a35ea26a-4d0f-4c81-83a5-dcbfae9dcbfe.png)
+
+
+Health Bot
+![image](https://user-images.githubusercontent.com/83835190/214555848-5b03576f-89ab-4917-99c6-ee4511f9a51f.png)
+
