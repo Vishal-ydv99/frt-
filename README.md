@@ -11,3 +11,8 @@ Project Link :- https://gray-mushroom-0bc3f7800.2.azurestaticapps.net
 Project Demo Video Link :- 
 
 #### Azure Technologies used for the Project
+
+1. Static Web Apps 
+
+2. Azure Health Bot
+
